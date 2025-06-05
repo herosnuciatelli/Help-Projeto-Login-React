@@ -18,7 +18,7 @@ export function AppHeader() {
         <ul>
           {["Home", "Contact", "About Us"].map((item) => {
             return (
-              <li>
+              <li key={item}>
                 <a href="#">{item}</a>
               </li>
             );
