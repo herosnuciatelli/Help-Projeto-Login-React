@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    gap: none;
+    width: 100%;
+}
+*{
+    margin: 0%;
+    gap: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
